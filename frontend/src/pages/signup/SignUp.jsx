@@ -41,7 +41,7 @@ const SignUp = () => {
             </label>
             <input
               type="text"
-              placeholder="John Doe"
+              placeholder="Enter your name"
               className="w-full input h-10 bg-black/15 text-white bg-clip-padding border-white/15 placeholder:text-white/55 bg-opacity-20 focus:bg-opacity-30 focus:outline-none focus:border-gray-300"
               value={inputs.fullName}
               onChange={(e) =>
@@ -58,7 +58,7 @@ const SignUp = () => {
             </label>
             <input
               type="text"
-              placeholder="johndoe"
+              placeholder="Enter a username"
               className="w-full input h-10 bg-black/15 text-white bg-clip-padding border-white/15 placeholder:text-white/55 bg-opacity-20 focus:bg-opacity-30 focus:outline-none focus:border-gray-300"
               value={inputs.username}
               onChange={(e) =>
