@@ -12,20 +12,20 @@ body {
 
 /* dark mode looking scrollbar */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 3px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #555;
+  background: #ffffff2e;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #121212;
+  background: #ffffff3d;
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #242424;
+  background: #ffffff75;
 }
 
 /* SHAKE ANIMATION ON HORIZONTAL DIRECTION */
