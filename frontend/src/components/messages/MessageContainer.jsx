@@ -20,7 +20,7 @@ const MessageContainer = () => {
       ) : (
         <>
           {/* Header */}
-          <div className="bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-5">
+          <div className="ps-2 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-5">
             <span className="label-text text-gray-300">To:</span>{" "}
             <span className="text-gray-200 font-bold">
               {selectedConversation.fullName}
