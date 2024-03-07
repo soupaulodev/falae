@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /login/
-Disallow: /home/
 
-Sitemap: dominioApp/sitemap.xml
+Sitemap: https://falae.onrender.com/sitemap.xml
